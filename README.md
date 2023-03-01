@@ -1,8 +1,10 @@
 # Chainlink Functions using thirdweb
 An example use case for Chainlink Functions - call a Chess API to retrieve the ratings of two chess players & calculate the new ELO rating based on who wins the subsequent match.
 
+This repository is a simplified and modified version of the official [Chainlink Functions Starter Kit](https://github.com/smartcontractkit/functions-hardhat-starter-kit).
+
 ## Using this repo
-Pre requisites:
+Prerequisites:
 - Git
 - Hardhat
 - Cast
